@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Тестовый Pet Project
+## Приложение с авторизацией и регистрацией
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
